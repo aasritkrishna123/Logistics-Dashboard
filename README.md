@@ -265,18 +265,4 @@ This helps identify aging vehicles, high-utilization models, and vehicles requir
 
 ## 📸 Dashboard Preview
 https://github.com/aasritkrishna123/Logistics-Dashboard/blob/main/ChatGPT%20Image.png
-### 🔹 
-
----
-
-## 📁 Project Structure
-
-```text
-📦 SwiftRoute-Logistics-Analytics
- ┣ 📊 SwiftRoute Logistics Dashboard.pbix
- ┣ 📄 Business Requirements.docx
- ┣ 🖼️ Dashboard Overview.png
- ┣ 🖼️ Hubs Overview.png
- ┣ 🖼️ Drivers Overview.png
- ┣ 🖼️ Vehicles Overview.png
- ┣ 📄 README.md
+### 
