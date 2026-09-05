@@ -264,6 +264,6 @@ This helps identify aging vehicles, high-utilization models, and vehicles requir
 ---
 
 ## 📸 Dashboard Preview
-![SwiftRoute Logistics Analytics Dashboard](https://github.com/aasritkrishna123/OLA-Ride-Data-Analysis/blob/main/OLA_Dashboard_Collage_ThickBorders.png)
+![SwiftRoute Logistics Analytics Dashboard](https://github.com/aasritkrishna123/Logistics-Dashboard/blob/main/ChatGPT%20Image.png)
 
 ### 
